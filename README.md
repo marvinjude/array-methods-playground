@@ -6,6 +6,8 @@ This is to familiarize you with open source contribution, CI and of course Testi
 
 ## Getting Started
 
+- Read this [step by step guide](https://link.medium.com/7AjLJHdO02) to get your code into this repository
+
 - Pick an array method, there is a list [here](https://javascript.info/array-methods) make sure no one has written it.
 
 - Create a new file in the `src` directory `<METHOD_NAME>.js` e.g `map.js` make sure the method hasn't been written already.
