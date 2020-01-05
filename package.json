@@ -1,0 +1,19 @@
+{
+  "name": "array-methods",
+  "version": "1.0.0",
+  "description": "Implementing all JavaScript array methods ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "keywords": [
+    "array",
+    "prototype"
+  ],
+  "author": "marvinjude",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
