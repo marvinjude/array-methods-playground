@@ -16,7 +16,7 @@ This is to familiarize you with open source contribution, CI and of course Testi
 
 - I wrote `map.js` and `map.test.js` feel free to use it as a template
 
-- Check (MDN)[https://developer.mozilla.org/en-US/docs/Web/JavaScript] for the signature of the array method you have chosen to write
+- Check [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) for the signature of the array method you have chosen to write
 
 ## Rules
 
@@ -29,7 +29,7 @@ This is to familiarize you with open source contribution, CI and of course Testi
 4. Your method should be prefixed with an \_ e.g
    `Array.prototype._map = function(){}`
 
-5 You can't write a method that someone has previously written. Please check contributions section below to see all methods that have been implemented.
+5. You can't write a method that someone has previously written. Please check contributions section below to see all methods that have been implemented.
 
 ....more
 
