@@ -5,11 +5,11 @@ describe("the _map function", () => {
     expect([1, 2]._map(e => e + 1)).toEqual([2, 3]);
   });
 
-  it("throws error for if callback param isn't a function", () => {
+  it("throws error if callback param isn't a function", () => {
     expect([1, 2]._map).toThrow();
   });
 
-  it("should return 'undefined' for each slot if nothing was returned", () => {
+  it("should return 'undefined' for each slot if nothing was returned from callback", () => {
     expect([1, 2]._map(() => {})).toEqual([undefined, undefined]);
   });
 });
