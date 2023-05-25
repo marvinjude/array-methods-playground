@@ -36,4 +36,4 @@ This is to familiarize you with open source contribution, CI and of course Testi
 ## Contributors
 
 - [marvinjude](https://github.com/marvinjude) (map)
-- [Joepolymath](https://github.com/Joepolymath) (map)
+- [Joepolymath](https://github.com/Joepolymath) (filter)

@@ -1,6 +1,6 @@
 /**
  *
- * @param {funtion} callbackFn
+ * @param {function} callbackFn
  * @param {Object} thisArg
  */
 Array.prototype._filter = function (callbackFn, thisArg) {
