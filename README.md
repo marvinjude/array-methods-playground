@@ -1,5 +1,7 @@
 # Let's do something fun.
 
+1! 2! testing workflow
+
 Implement one array method with test for it using Jest and send in a Pull Request.
 
 This is to familiarize you with open source contribution, CI and of course Testing.
