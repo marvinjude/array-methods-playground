@@ -22,7 +22,7 @@ jobs:
           node-version: '14'
 
       - name: Install dependencies
-        run: npm ci
+        run:  yarn --frozen-lockfile
 
       - name: Run tests
-        run: npm test
+        run: yarn test
